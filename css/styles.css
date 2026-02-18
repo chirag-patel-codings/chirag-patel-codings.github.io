@@ -10376,3 +10376,19 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+/* Code addditions */
+
+ul.skills {
+  list-style-type: none; 
+  padding: 0;
+}
+
+ul.skills li {
+  background-image: url('../assets/img/arrow-head.jpg');
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 20px 20px;
+  padding-left: 30px;
+  margin: 5px 0px 20px 30px;
+}
